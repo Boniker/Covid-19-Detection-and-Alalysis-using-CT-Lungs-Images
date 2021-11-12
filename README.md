@@ -19,4 +19,11 @@ COVID-19-Detection-System-using-Chest-X-Ray-Images-master
 
 4. Check do you have a datasheet inside COVID-X-ray-test-images directory.
 
-5. Run code, or setup the GUI interface.
+5. I have created two different GUI interfaces
+
+```text
+1. Segmentation GUI (using threshold, interactive)
+2. Main Detection GUI interface
+```
+
+6. Run code, or setup the GUI interface.
